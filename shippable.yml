@@ -1,4 +1,11 @@
 language: none
+env:
+  - FOO=1
+  - FOO=2
+  - FOO=3
+  - FOO=4
+  - FOO=5
+  - FOO=6
 build:
   ci:
     - cat ulysses.txt &
