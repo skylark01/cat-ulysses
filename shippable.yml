@@ -1,0 +1,4 @@
+language: none
+build:
+  ci:
+    - curl http://www.gutenberg.org/files/4300/4300-0.txt
